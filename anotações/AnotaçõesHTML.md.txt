@@ -1,0 +1,12 @@
+#**Links e âncoras**
+a= âncora
+href= colocar o link 
+target="_blank" depois do link
+rel="external"
+
+#Links internos 
+rel "next" - próxima página
+rel "prev" - anterior
+rel "nofollow" - não da aval 
+target "_self" - na própria aba
+../ - página anterior
